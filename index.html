@@ -1,0 +1,18 @@
+---
+layout: default
+title: Robert Speicher
+---
+
+<section id="posts" class="content">
+  {% for post in site.posts %}
+    <div class="row">
+      <div class="large-4 columns hide-for-small">
+        <span class="date">{{ post.date | date: "%B %e, %Y" }}</span>
+      </div>
+      <div class="small-12 large-7 columns">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </div>
+      <div class="large-1 columns hide-for-small"></div>
+    </div>
+  {% endfor %}
+</div>

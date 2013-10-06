@@ -1,0 +1,6 @@
+name: tsigo.github.io
+description: Blog posts by Robert Speicher (tsigo)
+url: http://tsigo.github.io/
+markdown: redcarpet
+pygments: true
+permalink: /blog/:year/:month/:day/:title/

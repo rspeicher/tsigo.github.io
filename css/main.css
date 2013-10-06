@@ -1,0 +1,24 @@
+div.highlight {
+  margin: 10px 0;
+  padding: 10px;
+}
+
+#posts {
+  margin: 20px 5px;
+}
+
+#posts .row {
+  padding: 8px 0;
+}
+
+#posts .date {
+  color: #999;
+  float: right;
+  font-size: 80%;
+}
+
+#post .meta {
+  font-size: 80%;
+  color: #999;
+  margin-top: -15px;
+}
