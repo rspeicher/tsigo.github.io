@@ -1,40 +1,40 @@
-### [AndrewVos/fuckingawesomesongs.com](https://github.com/AndrewVos/fuckingawesomesongs.com)
+#### [AndrewVos/fuckingawesomesongs.com](https://github.com/AndrewVos/fuckingawesomesongs.com)
 
 * Make each song its own file - [#38](https://github.com/AndrewVos/fuckingawesomesongs.com/pull/38)
 * Sharon Van Etten - Serpents - [#52](https://github.com/AndrewVos/fuckingawesomesongs.com/pull/52)
 
-### [brentd/gitploy](https://github.com/brentd/gitploy)
+#### [brentd/gitploy](https://github.com/brentd/gitploy)
 
 * Support for specifying local/remote branch names - [#1](https://github.com/brentd/gitploy/pull/1)
 * Cucumber features - [#2](https://github.com/brentd/gitploy/pull/2)
 
-### [carlhuda/bundler](https://github.com/carlhuda/bundler)
+#### [carlhuda/bundler](https://github.com/carlhuda/bundler)
 
 * Force "gem build" to use Verbose mode - [#791](https://github.com/carlhuda/bundler/pull/791)
 
-### [cgunther/formtastic-bootstrap](https://github.com/cgunther/formtastic-bootstrap)
+#### [cgunther/formtastic-bootstrap](https://github.com/cgunther/formtastic-bootstrap)
 
 * Undo use of 1.9 Hash syntax - [#2](https://github.com/cgunther/formtastic-bootstrap/pull/2)
 
-### [chriskempson/Tomorrow-Theme](https://github.com/chriskempson/Tomorrow-Theme)
+#### [chriskempson/Tomorrow-Theme](https://github.com/chriskempson/Tomorrow-Theme)
 
 * Extra line break so pictures line up correctly. - [#8](https://github.com/chriskempson/Tomorrow-Theme/pull/8)
 
-### [cucumber/aruba](https://github.com/cucumber/aruba)
+#### [cucumber/aruba](https://github.com/cucumber/aruba)
 
 * (Failing feature) - Directory manipulation inside an interactive process - [#17](https://github.com/cucumber/aruba/pull/17)
 * a directory/file named "whatever" should (not) exist - [#19](https://github.com/cucumber/aruba/pull/19)
 
-### [ernie/meta_search](https://github.com/ernie/meta_search)
+#### [ernie/meta_search](https://github.com/ernie/meta_search)
 
 * Add an optional ":join" parameter to multiparameter_field - [#14](https://github.com/ernie/meta_search/pull/14)
 
-### [github/help.github.com](https://github.com/github/help.github.com)
+#### [github/help.github.com](https://github.com/github/help.github.com)
 
 * Minor spelling/grammar/consistency fixes - [#94](https://github.com/github/help.github.com/pull/94)
 * Fix link to email account settings - [#95](https://github.com/github/help.github.com/pull/95)
 
-### [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq)
+#### [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq)
 
 * Consolidate functionality shared between Issue and MergeRequest - [#1208](https://github.com/gitlabhq/gitlabhq/pull/1208)
 * Fully embrace Ruby 1.9 hash syntax - [#1219](https://github.com/gitlabhq/gitlabhq/pull/1219)
@@ -90,58 +90,58 @@
 * Improve user feedback on the Profile > Design page - [#2030](https://github.com/gitlabhq/gitlabhq/pull/2030)
 * Add a link to each project on the Issues dashboard - [#2103](https://github.com/gitlabhq/gitlabhq/pull/2103)
 
-### [guard/guard-rspec](https://github.com/guard/guard-rspec)
+#### [guard/guard-rspec](https://github.com/guard/guard-rspec)
 
 * Remove extra whitespace from Guardfile template - [#11](https://github.com/guard/guard-rspec/pull/11)
 * Fix TravisCI image link - [#13](https://github.com/guard/guard-rspec/pull/13)
 
-### [jc00ke/vim-tomdoc](https://github.com/jc00ke/vim-tomdoc)
+#### [jc00ke/vim-tomdoc](https://github.com/jc00ke/vim-tomdoc)
 
 * Remove excess whitespace in templates - [#2](https://github.com/jc00ke/vim-tomdoc/pull/2)
 
-### [jnunemaker/mongomapper](https://github.com/jnunemaker/mongomapper)
+#### [jnunemaker/mongomapper](https://github.com/jnunemaker/mongomapper)
 
 * Fix plugin documentation links - [#361](https://github.com/jnunemaker/mongomapper/pull/361)
 
-### [meskyanichi/backup](https://github.com/meskyanichi/backup)
+#### [meskyanichi/backup](https://github.com/meskyanichi/backup)
 
 * Add a "--quiet" or "-q" option to perform - [#102](https://github.com/meskyanichi/backup/pull/102)
 * Prevent utility_path from overriding `cp` path in Redis - [#141](https://github.com/meskyanichi/backup/pull/141)
 
-### [mjbellantoni/formtastic-bootstrap](https://github.com/mjbellantoni/formtastic-bootstrap)
+#### [mjbellantoni/formtastic-bootstrap](https://github.com/mjbellantoni/formtastic-bootstrap)
 
 * Hidden inputs are still visible - [#5](https://github.com/mjbellantoni/formtastic-bootstrap/pull/5)
 
-### [mongoid/mongoid-site](https://github.com/mongoid/mongoid-site)
+#### [mongoid/mongoid-site](https://github.com/mongoid/mongoid-site)
 
 * Small grammar fix - [#19](https://github.com/mongoid/mongoid-site/pull/19)
 
-### [philc/vimium](https://github.com/philc/vimium)
+#### [philc/vimium](https://github.com/philc/vimium)
 
 * Increment/Decrement integer in URL using C-a and C-x - [#216](https://github.com/philc/vimium/pull/216)
 
-### [rspec/rspec-core](https://github.com/rspec/rspec-core)
+#### [rspec/rspec-core](https://github.com/rspec/rspec-core)
 
 * Fix indentation warnings; Closes #352 - [#384](https://github.com/rspec/rspec-core/pull/384)
 
-### [sinatra/sinatra.github.com](https://github.com/sinatra/sinatra.github.com)
+#### [sinatra/sinatra.github.com](https://github.com/sinatra/sinatra.github.com)
 
 * Minor typo in README - [#24](https://github.com/sinatra/sinatra.github.com/pull/24)
 
-### [soveran/ohm](https://github.com/soveran/ohm)
+#### [soveran/ohm](https://github.com/soveran/ohm)
 
 * Update SINTERSTORE and SDIFFSTORE links - [#25](https://github.com/soveran/ohm/pull/25)
 
-### [thoughtbot/shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
+#### [thoughtbot/shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
 
 * Add "is_within" method to EnsureLengthOfMatcher - [#155](https://github.com/thoughtbot/shoulda-matchers/pull/155)
 
-### [timrogers/rapgenius](https://github.com/timrogers/rapgenius)
+#### [timrogers/rapgenius](https://github.com/timrogers/rapgenius)
 
 * Spec reorganization and updating - [#6](https://github.com/timrogers/rapgenius/pull/6)
 * Song searching - [#7](https://github.com/timrogers/rapgenius/pull/7)
 
-### [tomas-stefano/infinity_test](https://github.com/tomas-stefano/infinity_test)
+#### [tomas-stefano/infinity_test](https://github.com/tomas-stefano/infinity_test)
 
 * Minor spelling/grammar changes - [#21](https://github.com/tomas-stefano/infinity_test/pull/21)
 

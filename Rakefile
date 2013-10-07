@@ -33,7 +33,7 @@ task :contribs do
 
   File.open(File.join(ROOT, '_includes', 'open-source.md'), 'w') do |f|
     y.sort_by { |v| v[0] }.each do |pair|
-      f.puts "### [#{pair[0]}](https://github.com/#{pair[0]})"
+      f.puts "#### [#{pair[0]}](https://github.com/#{pair[0]})"
       f.puts
 
       pair[1].each_pair do |issue, title|
