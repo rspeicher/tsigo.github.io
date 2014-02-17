@@ -5,7 +5,7 @@ brentd/gitploy:
 philc/vimium:
   '216': Increment/Decrement integer in URL using C-a and C-x
 cucumber/aruba:
-  '17': (Failing feature) - Directory manipulation inside an interactive process
+  '17': "(Failing feature) - Directory manipulation inside an interactive process"
   '19': a directory/file named "whatever" should (not) exist
 mongoid/mongoid-site:
   '19': Small grammar fix
@@ -98,6 +98,7 @@ gitlabhq/gitlabhq:
   '2030': Improve user feedback on the Profile > Design page
   '2103': Add a link to each project on the Issues dashboard
   '5377': Refactor search_autocomplete_source
+  '5385': Add specs for NotificationsHelper
 thoughtbot/shoulda-matchers:
   '155': Add "is_within" method to EnsureLengthOfMatcher
 timrogers/rapgenius:

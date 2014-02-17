@@ -90,6 +90,7 @@
 * Improve user feedback on the Profile > Design page - [#2030](https://github.com/gitlabhq/gitlabhq/pull/2030)
 * Add a link to each project on the Issues dashboard - [#2103](https://github.com/gitlabhq/gitlabhq/pull/2103)
 * Refactor search_autocomplete_source - [#5377](https://github.com/gitlabhq/gitlabhq/pull/5377)
+* Add specs for NotificationsHelper - [#5385](https://github.com/gitlabhq/gitlabhq/pull/5385)
 
 #### [guard/guard-rspec](https://github.com/guard/guard-rspec)
 
