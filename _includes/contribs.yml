@@ -7,42 +7,15 @@ philc/vimium:
 cucumber/aruba:
   '17': "(Failing feature) - Directory manipulation inside an interactive process"
   '19': a directory/file named "whatever" should (not) exist
-mongoid/mongoid-site:
-  '19': Small grammar fix
-carlhuda/bundler:
-  '791': Force "gem build" to use Verbose mode
-sinatra/sinatra.github.com:
-  '24': Minor typo in README
-soveran/ohm:
-  '25': Update SINTERSTORE and SDIFFSTORE links
 ernie/meta_search:
   '14': Add an optional ":join" parameter to multiparameter_field
-tomas-stefano/infinity_test:
-  '21': Minor spelling/grammar changes
-guard/guard-rspec:
-  '11': Remove extra whitespace from Guardfile template
-  '13': Fix TravisCI image link
 meskyanichi/backup:
   '102': Add a "--quiet" or "-q" option to perform
   '141': Prevent utility_path from overriding `cp` path in Redis
-rspec/rspec-core:
-  '384': 'Fix indentation warnings; Closes #352'
-chriskempson/Tomorrow-Theme:
-  '8': Extra line break so pictures line up correctly.
-mjbellantoni/formtastic-bootstrap:
-  '5': Hidden inputs are still visible
-jnunemaker/mongomapper:
-  '361': Fix plugin documentation links
 AndrewVos/fuckingawesomesongs.com:
   '38': Make each song its own file
-  '52': Sharon Van Etten - Serpents
-github/help.github.com:
-  '94': Minor spelling/grammar/consistency fixes
-  '95': Fix link to email account settings
 cgunther/formtastic-bootstrap:
   '2': Undo use of 1.9 Hash syntax
-jc00ke/vim-tomdoc:
-  '2': Remove excess whitespace in templates
 gitlabhq/gitlabhq:
   '1208': Consolidate functionality shared between Issue and MergeRequest
   '1219': Fully embrace Ruby 1.9 hash syntax
