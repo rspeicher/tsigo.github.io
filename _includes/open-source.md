@@ -77,6 +77,8 @@
 * Add a link to each project on the Issues dashboard - [#2103](https://github.com/gitlabhq/gitlabhq/pull/2103)
 * Refactor search_autocomplete_source - [#5377](https://github.com/gitlabhq/gitlabhq/pull/5377)
 * Add specs for NotificationsHelper - [#5385](https://github.com/gitlabhq/gitlabhq/pull/5385)
+* Add GFM autocompletion for MergeRequests - [#6475](https://github.com/gitlabhq/gitlabhq/pull/6475)
+* Natural version sorting - [#6500](https://github.com/gitlabhq/gitlabhq/pull/6500)
 
 #### [meskyanichi/backup](https://github.com/meskyanichi/backup)
 

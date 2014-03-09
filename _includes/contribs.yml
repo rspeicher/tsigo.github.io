@@ -72,6 +72,8 @@ gitlabhq/gitlabhq:
   '2103': Add a link to each project on the Issues dashboard
   '5377': Refactor search_autocomplete_source
   '5385': Add specs for NotificationsHelper
+  '6475': Add GFM autocompletion for MergeRequests
+  '6500': Natural version sorting
 thoughtbot/shoulda-matchers:
   '155': Add "is_within" method to EnsureLengthOfMatcher
 timrogers/rapgenius:
