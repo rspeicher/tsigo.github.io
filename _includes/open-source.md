@@ -79,6 +79,9 @@
 * Add specs for NotificationsHelper - [#5385](https://github.com/gitlabhq/gitlabhq/pull/5385)
 * Add GFM autocompletion for MergeRequests - [#6475](https://github.com/gitlabhq/gitlabhq/pull/6475)
 * Natural version sorting - [#6500](https://github.com/gitlabhq/gitlabhq/pull/6500)
+* Quieter test output - [#6527](https://github.com/gitlabhq/gitlabhq/pull/6527)
+* Remove Spork - [#6554](https://github.com/gitlabhq/gitlabhq/pull/6554)
+* Even quieter test output - [#6555](https://github.com/gitlabhq/gitlabhq/pull/6555)
 
 #### [meskyanichi/backup](https://github.com/meskyanichi/backup)
 

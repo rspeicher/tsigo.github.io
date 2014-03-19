@@ -74,6 +74,9 @@ gitlabhq/gitlabhq:
   '5385': Add specs for NotificationsHelper
   '6475': Add GFM autocompletion for MergeRequests
   '6500': Natural version sorting
+  '6527': Quieter test output
+  '6554': Remove Spork
+  '6555': Even quieter test output
 thoughtbot/shoulda-matchers:
   '155': Add "is_within" method to EnsureLengthOfMatcher
 timrogers/rapgenius:
