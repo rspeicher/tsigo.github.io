@@ -1,11 +1,21 @@
+#### [gitlab](https://github.com/gitlabhq/gitlabhq)
+
+Since 2012 I've volunteered as a [contributor][contributor] to the popular
+[GitLab][gitlab] project, focusing mainly on cleaning up the existing code,
+adding requested features and triaging tickets.
+
+Over [60 merged pull requests][pulls] and counting!
+
+[contributor]: http://contributors.gitlab.org/contributors/robert-speicher/commits
+[gitlab]: http://www.gitlab.com/
+[pulls]: https://github.com/gitlabhq/gitlabhq/pulls/tsigo?direction=desc&page=1&sort=created&state=all
+
 #### [video_dimensions](https://github.com/tsigo/video_dimensions)
 
 Quick and easy video attributes -- width, height, bitrate, codec, duration,
 framerate.
 
 **Tools used:** Ruby, RSpec
-
----
 
 #### [hubstar](https://github.com/tsigo/hubstar)
 
@@ -26,8 +36,6 @@ the projects that I save.
 OAuth, Octokit, CoffeeScript, jQuery, Twitter Bootstrap, RSpec, FactoryGirl,
 Shoulda
 
----
-
 #### [gemphile](https://github.com/tsigo/gemphile)
 
 A Gemfile and gemspec indexer
@@ -41,18 +49,24 @@ simple search interface to find those projects.
 **Tools used:** Ruby 1.9, Sinatra, MongoDB, Mongoid, Mustache, DelayedJob,
 RSpec, FactoryGirl, WebMock, GitHub API v2
 
----
-
 #### [wriggle](https://github.com/tsigo/wriggle)
 
 A simple Ruby directory crawler DSL
 
 **Tools used:** Ruby, RSpec, TravisCI
 
----
-
 #### [invision_bridge](https://github.com/tsigo/invision_bridge)
 
 Allows your Authlogic-based User model to authenticate using an IP.Board 3.x database.
 
 **Tools used:** Ruby, ActiveRecord, Authlogic
+
+#### [wowr](https://github.com/tsigo/wowr) - forked from [pwood](https://github.com/pwood/wowr)
+
+Originally this gem's code was monolithic with few if any meaningful tests and
+absolutely no API documentation. Together with [Tanner Donovan][ttdonovan], I
+documented nearly all of the API, added nearly total test coverage and
+refactored the code into smaller, logical chunks while maintaining backwards
+compatibility with the legacy API.
+
+[ttdonovan]: https://github.com/ttdonovan
