@@ -16,67 +16,6 @@ AndrewVos/fuckingawesomesongs.com:
   '38': Make each song its own file
 cgunther/formtastic-bootstrap:
   '2': Undo use of 1.9 Hash syntax
-gitlabhq/gitlabhq:
-  '1208': Consolidate functionality shared between Issue and MergeRequest
-  '1219': Fully embrace Ruby 1.9 hash syntax
-  '1224': Fix invalid syntax in OmniAuth initializer sample
-  '1225': Remove trailing whitespace in rb and haml files
-  '1230': Correct usage of "Can't"
-  '1232': GFM Refactoring
-  '1239': Allow disabling Gravatars in gitlab.yml settings
-  '1247': Allow filtering issues that have no milestone or assignee
-  '1260': Notify mailer refactor
-  '1264': Account for deleted issues on the event dashboard
-  '1265': Add API for Milestones
-  '1266': Speed up the "Project Network Graph" cucumber feature
-  '1275': Don't run SimpleCov on Travis
-  '1285': Gemfile cleanup
-  '1300': Spec cleanup/reorganization
-  '1323': FactoryGirl and spec cleanup
-  '1329': Add milestone API docs to doc/README and views/help/api
-  '1333': Increased model spec coverage
-  '1334': Fix milestone API specs
-  '1351': Give Resque route a name and use that for the iframe src
-  '1355': GFM spec redesign
-  '1365': Update User#identifier to conform to Gitolite 2.x's user pattern
-  '1366': Change @project instance variable to a local in views/help/markdown
-  '1368': Add tmp/.gitkeep file to ensure tmp folder exists on clone
-  '1369': Clean up doc/installation.md
-  '1371': Refactor the project clone panel
-  '1375': Default branch auto-discovery
-  '1384': Emoji!
-  '1386': Use GitHub::Markup to parse markup files
-  '1397': Fix Markdown help page
-  '1412': Convert main.js to CoffeeScript
-  '1415': Reduce the amount of JavaScript written in views
-  '1451': Be more resilient in the case of missing omniauth settings
-  '1456': Fix HTML entities being parsed in GFM
-  '1477': Routing specs and cleanup
-  '1479': Extract ref switcher into a partial
-  '1496': Add initializer for customizing Resque's Redis connection
-  '1512': Better escaping of text passed into GFM
-  '1516': Consolidate layouts
-  '1528': Consolidate Resque-related initializers
-  '1568': Routing overhaul
-  '1613': Improve performance of Commits#show
-  '1626': Minor performance changes
-  '1627': Tree performance improvements
-  '1663': Allow custom page title and logo
-  '1665': Fix forward/back while browsing Tree hierarchy
-  '1672': Milestone "All Issues" filter
-  '1901': Add quiet_assets gem, remove initializer
-  '1902': Fix breadcrumb links on Commits page
-  '1914': Fix double icon on header button hover
-  '1915': Fix rendered action for password change failure
-  '2030': Improve user feedback on the Profile > Design page
-  '2103': Add a link to each project on the Issues dashboard
-  '5377': Refactor search_autocomplete_source
-  '5385': Add specs for NotificationsHelper
-  '6475': Add GFM autocompletion for MergeRequests
-  '6500': Natural version sorting
-  '6527': Quieter test output
-  '6554': Remove Spork
-  '6555': Even quieter test output
 thoughtbot/shoulda-matchers:
   '155': Add "is_within" method to EnsureLengthOfMatcher
 timrogers/rapgenius:
