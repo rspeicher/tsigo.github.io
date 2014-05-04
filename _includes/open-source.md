@@ -20,6 +20,10 @@
 
 * Add an optional ":join" parameter to multiparameter_field - [#14](https://github.com/ernie/meta_search/pull/14)
 
+#### [gogits/gogs](https://github.com/gogits/gogs)
+
+* Install: Set the default host string based on database type - [#143](https://github.com/gogits/gogs/pull/143)
+
 #### [meskyanichi/backup](https://github.com/meskyanichi/backup)
 
 * Add a "--quiet" or "-q" option to perform - [#102](https://github.com/meskyanichi/backup/pull/102)
@@ -28,6 +32,10 @@
 #### [philc/vimium](https://github.com/philc/vimium)
 
 * Increment/Decrement integer in URL using C-a and C-x - [#216](https://github.com/philc/vimium/pull/216)
+
+#### [sampsyo/beets](https://github.com/sampsyo/beets)
+
+* Add `before_item_moved` event - [#742](https://github.com/sampsyo/beets/pull/742)
 
 #### [thoughtbot/shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
 

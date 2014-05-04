@@ -21,3 +21,7 @@ thoughtbot/shoulda-matchers:
 timrogers/rapgenius:
   '6': Spec reorganization and updating
   '7': Song searching
+sampsyo/beets:
+  '742': Add `before_item_moved` event
+gogits/gogs:
+  '143': 'Install: Set the default host string based on database type'
