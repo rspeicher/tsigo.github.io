@@ -3,6 +3,6 @@ description: Blog posts by Robert Speicher (tsigo)
 url: http://tsigo.github.io/
 markdown: redcarpet
 markdown_ext: markdown,mkd,md
-highlighter: rouge
+highlighter: pygments
 permalink: /blog/:year/:month/:day/:title/
 excerpt_separator: ""

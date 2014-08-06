@@ -27,7 +27,7 @@ end
 
 Running this spec with RSpec2 generated this error:
 
-```log
+```
 Failures:
   1) AchievementsController GET index
      Failure/Error: it { should respond_with(:success) }
