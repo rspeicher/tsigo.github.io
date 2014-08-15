@@ -17,25 +17,36 @@ that also needed to be appended with some host-specific settings on just one of
 my machines.
 
 A file at `host-mycomputer/zshrc.local` would be ignored because I already had a
-non-host-specific `zshrc.local` file in my dotfiles. The solution ended up being
-pretty simple, but without some basic Bash scripting knowledge it seems a bit
-like magic.
+non-host-specific `zshrc.local` file in my dotfiles.
+
+My first instinct was that I could just use a slightly modified version of the
+`.local` [convention] itself:
+
+```bash
+# ~/.zshrc.local
+# This will not work!
+[[ -f ~/.zshrc.*.local ]] && source ~/.zshrc.*.local
+```
+
+This will error out because you can't do wildcard expansion in conditionals. The
+final solution ended up being pretty simple, but without some basic Bash
+scripting knowledge it seems a bit like magic.
 
 First, I kept my more generic `zshrc.local` file as it was, and moved the
 host-specific configuration to `host-mycomputer/zshrc.mycomputer.local`,
 resolving the name conflict.
 
 The next step was to get the host-specific file to be read and processed. It's
-similar but not identical to thoughtbot's [convention] of bringing in `.local`
+similar but not identical to thoughtbot's convention of bringing in `.local`
 files. I modified my `zshrc.local` file to have this at the bottom:
 
 ```bash
-# Host-specific local configs (e.g., ~/.zshrc.laptop.local)
+# ~/.zshrc.local
 set -- ~/.zshrc.*.local
 [ "$#" -gt 0 ] && source "$@"
 ```
 
-And this works. But why? Well, the first line (ignoring the comment) tells the
+And this works. But why? Well, the first line (ignoring the comments) tells the
 script to assign the command-line arguments (the `--`, see [double dash]) to any
 file(s) matching `~/.zshrc.<something>.local`. The second line checks if there's
 at least one match, and `source`s all of them at once (`"$@"` expands to `"$1"
@@ -46,8 +57,8 @@ host-specific settings that only applied when I was on my main development
 machine.
 
 You can see this in action
-[here](https://github.com/tsigo/dotfiles-local/blob/master/zshrc.local) and
-[here](https://github.com/tsigo/dotfiles-local/blob/master/host-pride/zshrc.pride.local).
+[here](https://github.com/tsigo/dotfiles-local/blob/master/zshrc.local#L23-L25) and
+[here](https://github.com/tsigo/dotfiles-local/blob/master/host-pride/zshrc.pride.local#L1).
 
 [convention]: https://github.com/thoughtbot/dotfiles/blob/master/zshrc#L78-L79
 [dotfiles]: https://github.com/tsigo/dotfiles-rcm
