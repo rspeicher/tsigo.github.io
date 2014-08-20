@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An RSpec2 / Shoulda Controller Gotcha"
 categories: ruby rails rails3 rspec rspec2 shoulda
 ---

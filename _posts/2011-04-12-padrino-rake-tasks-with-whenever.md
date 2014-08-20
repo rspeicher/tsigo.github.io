@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Padrino Rake tasks with Whenever"
 categories: ruby padrino whenever cron crontab
 ---

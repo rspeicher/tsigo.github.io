@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "Generating my open source contributions page"
-date: 2012-03-06 15:38
 categories: ruby github
 ---
 

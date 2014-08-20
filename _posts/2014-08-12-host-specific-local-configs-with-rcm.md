@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Host-specific .local configs with RCM
-date: 2014-08-12 21:00
 categories: shell
 ---
 

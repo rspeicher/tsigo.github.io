@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "Ruby's Extended Regular Expressions"
-date: 2012-08-30 23:08
 categories: ruby regex
 ---
 

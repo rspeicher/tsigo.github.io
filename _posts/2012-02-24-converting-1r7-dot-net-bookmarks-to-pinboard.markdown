@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "Converting 1r7.net bookmarks to Pinboard"
-date: 2012-02-24 14:10
 categories: ruby
 ---
 

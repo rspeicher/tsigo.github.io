@@ -6,3 +6,9 @@ markdown_ext: markdown,mkd,md
 highlighter: pygments
 permalink: /blog/:year/:month/:day/:title/
 excerpt_separator: ""
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "post"

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Alphabetizing a block of text in Vim"
 categories: vim
 ---

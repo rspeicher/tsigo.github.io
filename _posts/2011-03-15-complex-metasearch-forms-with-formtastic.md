@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Complex MetaSearch forms with Formtastic"
 categories: rails ruby formtastic meta_search
 ---
