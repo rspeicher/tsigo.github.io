@@ -8,7 +8,7 @@ Over [60 merged pull requests][pulls] and counting!
 
 [contributor]: http://contributors.gitlab.com/contributors/robert-speicher/commits
 [gitlab]: http://www.gitlab.com/
-[pulls]: https://github.com/gitlabhq/gitlabhq/pulls/tsigo?direction=desc&page=1&sort=created&state=all
+[pulls]: https://github.com/gitlabhq/gitlabhq/pulls?q=sort%3Acreated-desc+author%3Atsigo
 
 #### [video_dimensions](https://github.com/tsigo/video_dimensions)
 
