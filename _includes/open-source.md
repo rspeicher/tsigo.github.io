@@ -37,6 +37,13 @@
 
 * Add `before_item_moved` event - [#742](https://github.com/sampsyo/beets/pull/742)
 
+#### [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles)
+
+* Update for Vundle's new interface - [#241](https://github.com/thoughtbot/dotfiles/pull/241)
+* Allow stylesheets to autocomplete hyphenated words - [#285](https://github.com/thoughtbot/dotfiles/pull/285)
+* Add zshenv file - [#289](https://github.com/thoughtbot/dotfiles/pull/289)
+* Change rename.vim to Tim Pope's vim-eunuch - [#300](https://github.com/thoughtbot/dotfiles/pull/300)
+
 #### [thoughtbot/shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
 
 * Add "is_within" method to EnsureLengthOfMatcher - [#155](https://github.com/thoughtbot/shoulda-matchers/pull/155)

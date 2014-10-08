@@ -25,3 +25,8 @@ sampsyo/beets:
   '742': Add `before_item_moved` event
 gogits/gogs:
   '143': 'Install: Set the default host string based on database type'
+thoughtbot/dotfiles:
+  '241': Update for Vundle's new interface
+  '285': Allow stylesheets to autocomplete hyphenated words
+  '289': Add zshenv file
+  '300': Change rename.vim to Tim Pope's vim-eunuch
