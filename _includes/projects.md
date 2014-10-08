@@ -6,7 +6,7 @@ adding requested features and triaging tickets.
 
 Over [60 merged pull requests][pulls] and counting!
 
-[contributor]: http://contributors.gitlab.org/contributors/robert-speicher/commits
+[contributor]: http://contributors.gitlab.com/contributors/robert-speicher/commits
 [gitlab]: http://www.gitlab.com/
 [pulls]: https://github.com/gitlabhq/gitlabhq/pulls/tsigo?direction=desc&page=1&sort=created&state=all
 
