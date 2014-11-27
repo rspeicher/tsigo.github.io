@@ -30,3 +30,5 @@ thoughtbot/dotfiles:
   '285': Allow stylesheets to autocomplete hyphenated words
   '289': Add zshenv file
   '300': Change rename.vim to Tim Pope's vim-eunuch
+activerecord-hackery/ransack:
+  '470': Make search_form_for's default :as option respect custom search_key

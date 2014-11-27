@@ -2,6 +2,10 @@
 
 * Make each song its own file - [#38](https://github.com/AndrewVos/fuckingawesomesongs.com/pull/38)
 
+#### [activerecord-hackery/ransack](https://github.com/activerecord-hackery/ransack)
+
+* Make search_form_for's default :as option respect custom search_key - [#470](https://github.com/activerecord-hackery/ransack/pull/470)
+
 #### [brentd/gitploy](https://github.com/brentd/gitploy)
 
 * Support for specifying local/remote branch names - [#1](https://github.com/brentd/gitploy/pull/1)
