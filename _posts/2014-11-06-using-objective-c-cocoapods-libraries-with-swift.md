@@ -14,7 +14,7 @@ manager. It's a nice convenient way to bring external libraries into your
 project, but using it to bring a dependency into a Swift project took a little
 bit of doing, so I thought I'd explain how I got it working.
 
-I wanted to use the [FontAwesomeIconFactory] pod in a Swift-only project.  First
+I wanted to use the [FontAwesomeIconFactory] pod in a Swift-only project. First
 I'll add it to my `Podfile` as per the instructions:
 
 ```ruby
@@ -31,7 +31,7 @@ XCode with `open ExampleSwiftProject.xcworkspace`.
 [Apple's documentation] for using Swift and Objective-C in the same project
 briefly mentions creating an **Objective-C bridging header** file. Create one by
 right-clicking the project in the **Project Navigator**, and going to **New
-File**. Select **Source** under **iOS** *or **OS X** depending on your project
+File**. Select **Source** under **iOS** (or **OS X** depending on your project
 type), and finally **Header File**. For the sake of following Apple's suggested
 naming convention, name the file `ExampleSwiftProject-Bridging-Header.h`.
 
